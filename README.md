@@ -1,2 +1,2 @@
-# Skin_Cancer_Detection
-This is the repository which features the required dataset for the project Skin Cancer Detection. 
+# Skin-Cancer-Detection-
+download link for the dataset https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
